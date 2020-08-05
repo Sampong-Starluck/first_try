@@ -1,0 +1,13 @@
+C:\Users\Sampong\Desktop\program for test\c#\bin\Debug\netcoreapp3.1\c#.exe
+C:\Users\Sampong\Desktop\program for test\c#\bin\Debug\netcoreapp3.1\c#.deps.json
+C:\Users\Sampong\Desktop\program for test\c#\bin\Debug\netcoreapp3.1\c#.runtimeconfig.json
+C:\Users\Sampong\Desktop\program for test\c#\bin\Debug\netcoreapp3.1\c#.runtimeconfig.dev.json
+C:\Users\Sampong\Desktop\program for test\c#\bin\Debug\netcoreapp3.1\c#.dll
+C:\Users\Sampong\Desktop\program for test\c#\bin\Debug\netcoreapp3.1\c#.pdb
+C:\Users\Sampong\Desktop\program for test\c#\obj\Debug\netcoreapp3.1\c#.csprojAssemblyReference.cache
+C:\Users\Sampong\Desktop\program for test\c#\obj\Debug\netcoreapp3.1\c#.AssemblyInfoInputs.cache
+C:\Users\Sampong\Desktop\program for test\c#\obj\Debug\netcoreapp3.1\c#.AssemblyInfo.cs
+C:\Users\Sampong\Desktop\program for test\c#\obj\Debug\netcoreapp3.1\c#.csproj.CoreCompileInputs.cache
+C:\Users\Sampong\Desktop\program for test\c#\obj\Debug\netcoreapp3.1\c#.dll
+C:\Users\Sampong\Desktop\program for test\c#\obj\Debug\netcoreapp3.1\c#.pdb
+C:\Users\Sampong\Desktop\program for test\c#\obj\Debug\netcoreapp3.1\c#.genruntimeconfig.cache

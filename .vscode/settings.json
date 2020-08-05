@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "iostream": "cpp"
+    },
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 10,
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.saveAllFilesBeforeRun": true,
+    "prettier.resolveGlobalModules": true,
+    "C_Cpp.errorSquiggles": "Disabled",
+    "python.pythonPath": "C:\\Users\\Sampong\\AppData\\Local\\Programs\\Python\\Python38\\python.exe"
+}
