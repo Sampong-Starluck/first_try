@@ -22,17 +22,17 @@
 # else:
 #     print("This number is a prime number.")
 
-# def recur_fibo(a):
-#     if a <= 1:
-#         return a
-#     else:
-#         return (recur_fibo(a - 1) + recur_fibo(a - 2))
+def recur_fibo(a):
+    if a <= 1:
+        return a
+    else:
+        return (recur_fibo(a - 1) + recur_fibo(a - 2))
         
-# num = int(input("Enter the number: "))
-# if num <= 0:
-#     print("Please enter the natural number !!!!")
-# else:
-#     for i in range(1,num+1):
-#         print(recur_fibo(i), end=" ")
+num = int(input("Enter the number: "))
+if num <= 0:
+    print("Please enter the natural number !!!!")
+else:
+    for i in range(1,num+1):
+        print(recur_fibo(i), end=" ")
 
 
